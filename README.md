@@ -1,6 +1,6 @@
 # Hello, I'm Hugo Walter 👋
 
-Welcome to my GitHub profile! I'm passionate about [Your Interests or Fields], and I love building [Your Skills or Technologies] projects. Here's a little about me:
+Here's a little about me:
 
 *   🌍  I'm based in France
 *   ✉️  You can contact me at [walter25@laposte.net](mailto:walter25@laposte.net)
