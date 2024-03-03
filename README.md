@@ -17,8 +17,8 @@ Here's a little about me:
 
 ### Dev Oriented
 - [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://www.java.com/) A versatile programming language commonly used for building enterprise-level applications.
-- [![PERN Stack](https://img.shields.io/badge/PERN-000000?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) PostgreSQL, Express, React, Node.js - A powerful stack for building full-stack web applications.
-
+- [![PERN Stack](https://img.shields.io/badge/PERN-000000?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) PostgreSQL, Express, React, Node.js - A powerful stack for building full-stack web applications and APIs..
+- Really good knowledge of OOP patterns.
 
 ### Web3 Oriented
 - [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&logoColor=white)](https://soliditylang.org/) A high-level language for implementing smart contracts on the Ethereum blockchain.
