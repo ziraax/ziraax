@@ -11,20 +11,20 @@ Here's a little about me:
 ## 🔧 Technologies & Tools
 
 ### Data Science
-- [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://www.r-project.org/): A powerful statistical programming language commonly used for data analysis and visualization.
-- [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/): Widely used for data manipulation, machine learning, and deep learning tasks.
+- [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://www.r-project.org/) A powerful statistical programming language commonly used for data analysis and visualization.
+- [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) Widely used for data manipulation, machine learning, and deep learning tasks.
 - Seaborn, Matplotlib, Scikit, NLP tools: Essential libraries and tools for data visualization, machine learning, and natural language processing.
 
 ### Dev Oriented
-- [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://www.java.com/): A versatile programming language commonly used for building enterprise-level applications.
-- [![PERN Stack](https://img.shields.io/badge/PERN-000000?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/): PostgreSQL, Express, React, Node.js - A powerful stack for building full-stack web applications.
+- [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://www.java.com/) A versatile programming language commonly used for building enterprise-level applications.
+- [![PERN Stack](https://img.shields.io/badge/PERN-000000?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) PostgreSQL, Express, React, Node.js - A powerful stack for building full-stack web applications.
 
 
 ### Web3 Oriented
-- [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&logoColor=white)](https://soliditylang.org/): A high-level language for implementing smart contracts on the Ethereum blockchain.
-- [![Ethers.js](https://img.shields.io/badge/-Ethers.js-F68D12?style=flat&logo=ethereum&logoColor=white)](https://docs.ethers.io/v5/): A JavaScript library for interacting with the Ethereum blockchain and building decentralized applications.
-- [![Hardhat](https://img.shields.io/badge/-Hardhat-4630EB?style=flat&logo=Hardhat&logoColor=white)](https://hardhat.org/): A development environment for Ethereum smart contracts that helps you write, compile, test, and deploy your Solidity code.
-- [![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat&logo=IPFS&logoColor=white)](https://ipfs.io/): A protocol and network designed to create a peer-to-peer method of storing and sharing hypermedia in a distributed file system.
+- [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&logoColor=white)](https://soliditylang.org/) A high-level language for implementing smart contracts on the Ethereum blockchain.
+- [![Ethers.js](https://img.shields.io/badge/-Ethers.js-F68D12?style=flat&logo=ethereum&logoColor=white)](https://docs.ethers.io/v5/) A JavaScript library for interacting with the Ethereum blockchain and building decentralized applications.
+- [![Hardhat](https://img.shields.io/badge/-Hardhat-4630EB?style=flat&logo=Hardhat&logoColor=white)](https://hardhat.org/) A development environment for Ethereum smart contracts that helps you write, compile, test, and deploy your Solidity code.
+- [![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat&logo=IPFS&logoColor=white)](https://ipfs.io/) A protocol and network designed to create a peer-to-peer method of storing and sharing hypermedia in a distributed file system.
 
 
 
