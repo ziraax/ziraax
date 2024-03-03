@@ -36,12 +36,3 @@ Feel free to explore my repositories and don't hesitate to reach out! Let's coll
 
 
 ## 🌟 Featured Projects
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ziraax/BuildOfferRecommenderSystemTelecom" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ziraax&repo=BuildOfferRecommenderSystemTelecom&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ziraax/Car_Labelling_Data_Analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ziraax&repo=Car_Labelling_Data_Analysis&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/ziraax/SpotifyDataAnalysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ziraax&repo=SpotifyDataAnalysis&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-
-
