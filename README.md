@@ -1,4 +1,4 @@
-# Hello, I'm Hugo Walter 👋
+# Hello, I'm Hugo 👋
 
 Here's a little about me:
 
