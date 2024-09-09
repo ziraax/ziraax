@@ -2,7 +2,7 @@
 
 Here's a little about me:
 
-*   🌍  I'm based in France
+*   🌍  I'm based in France, Rennes
 *   ✉️  You can contact me at [walter25@laposte.net](mailto:walter25@laposte.net)
 *   🧠  I'm learning PyTorch & TensorFlow
 *   🤝  I'm open to collaborating on data science challenges, AI projects
