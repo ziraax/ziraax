@@ -21,13 +21,6 @@ Here's a little about me:
 - [![PERN Stack](https://img.shields.io/badge/PERN-000000?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) PostgreSQL, Express, React, Node.js - A powerful stack for building full-stack web applications and APIs..
 - Really good knowledge of OOP patterns.
 
-### Web3 Oriented
-- [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&logoColor=white)](https://soliditylang.org/) A high-level language for implementing smart contracts on the Ethereum blockchain.
-- [![Ethers.js](https://img.shields.io/badge/-Ethers.js-F68D12?style=flat&logo=ethereum&logoColor=white)](https://docs.ethers.io/v5/) A JavaScript library for interacting with the Ethereum blockchain and building decentralized applications.
-- [![Hardhat](https://img.shields.io/badge/-Hardhat-4630EB?style=flat&logo=Hardhat&logoColor=white)](https://hardhat.org/) A development environment for Ethereum smart contracts that helps you write, compile, test, and deploy your Solidity code.
-- [![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat&logo=IPFS&logoColor=white)](https://ipfs.io/) A protocol and network designed to create a peer-to-peer method of storing and sharing hypermedia in a distributed file system.
-
-
 
 ## 📫 Let's Connect
 
