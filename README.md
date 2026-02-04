@@ -11,10 +11,9 @@ Here's a little about me:
 ## 🔧 Technologies & Tools
 
 ### Data Science
-- [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://www.r-project.org/) A powerful statistical programming language commonly used for data analysis and visualization.
 - [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) Widely used for data manipulation, machine learning, and deep learning tasks.
 - Seaborn, Matplotlib, Scikit, NLP tools: Essential libraries and tools for data visualization, machine learning, and natural language processing.
-- Pytorch 
+- Pytorch & PyG
 
 ### Dev Oriented
 - [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://www.java.com/) A versatile programming language commonly used for building enterprise-level applications.
