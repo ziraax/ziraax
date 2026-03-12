@@ -2,9 +2,8 @@
 
 Here's a little about me:
 
-*   🌍  I'm based in France, Rennes
+*   🌍  I'm based in Lausanne, Switzerland, currently a Research Intern @ EPFL
 *   ✉️  You can contact me at [walter25@laposte.net](mailto:walter25@laposte.net)
-*   🧠  I'm learning PyTorch 
 *   🤝  I'm open to collaborating on data science challenges, AI projects
 *   ⚡  I'm secretly good in Java... but don't tell anyone
 
