@@ -2,8 +2,6 @@
 
 Here's a little about me:
 
-*   🌍  I'm based in Lausanne, Switzerland, currently a Research Intern @ EPFL
-*   ✉️  You can contact me at [walter25@laposte.net](mailto:walter25@laposte.net)
 *   🤝  I'm open to collaborating on data science challenges, AI projects
 *   ⚡  I'm secretly good in Java... but don't tell anyone
 
@@ -19,10 +17,6 @@ Here's a little about me:
 - [![PERN Stack](https://img.shields.io/badge/PERN-000000?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) PostgreSQL, Express, React, Node.js - A powerful stack for building full-stack web applications and APIs..
 - Really good knowledge of OOP patterns.
 
-
-## 📫 Let's Connect
-
-Feel free to explore my repositories and don't hesitate to reach out! Let's collaborate and build something amazing together. 😊
 
 
 ## 🌟 Featured Projects
